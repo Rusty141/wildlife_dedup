@@ -117,7 +117,7 @@ Simulated in **Vivado 2018.3 XSim** (Behavioural). Total runtime: **910,595 ns @
 ---
 
 ## How to Run the Simulation
-
+<!--
 ### Option 1 — TCL script (fastest)
 
 ```bash
@@ -126,7 +126,7 @@ vivado -mode tcl -source create_project.tcl
 ```
 
 ### Option 2 — Vivado GUI
-
+-->
 1. Open Vivado 2018.3
 2. Create new project → part `xc7a35tcpg236-1`
 3. Add design sources: all `.v` files from `src/`
