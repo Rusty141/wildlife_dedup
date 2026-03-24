@@ -161,7 +161,7 @@ vivado -mode tcl -source create_project.tcl
 
 ## Video Demo
 
-[YouTube link — add after recording]
+https://youtu.be/9yewlDucVHQ
 
 ---
 
